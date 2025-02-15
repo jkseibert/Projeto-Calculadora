@@ -18,17 +18,17 @@ Para executar este projeto, será necessario que tenha o Python 3 instalado.
 
    git clone [https://github.com/jkseibert/Projeto-Calculadora.git]
 
-2.Execute com o seguinte comando:
+2. Execute com o seguinte comando:
 
-bash
+   '''bash
 
-python calculador.ipynd
+   python calculador.ipynd
 
-3.Permissões: 
+3. Permissões: 
 
-Para executar o arquivo SH, é necessário que ele possua permissão de execução (x).
+   Para executar o arquivo SH, é necessário que ele possua permissão de execução (x).
 
-Você pode alterar as permissões de um arquivo utilizando o comando chmod, e colocando a permissão de execução x.
+   Você pode alterar as permissões de um arquivo utilizando o comando chmod, e colocando a permissão de execução x.
 
 
 ##Modo de usar:
