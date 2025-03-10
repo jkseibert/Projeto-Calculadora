@@ -12,7 +12,7 @@ Para executar este projeto, será necessario que tenha o Python 3 instalado.
    '''bash
    git clone [https://github.com/jkseibert/Projeto-Calculadora.git]
 
-2.Execute com o seguinte comando:
+2. Execute com o seguinte comando:
 bash
 python calculador.py
 
