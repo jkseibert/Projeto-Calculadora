@@ -1,5 +1,6 @@
 Bem vindo a calculadora básica. 
 #Objetivo: 
+
 Criar meu primeiro projeto no GitHub a partir de um projeto inicial de Python. Uma calculadora com funcionalidades básicas.
 
 #Dependencias:
@@ -20,4 +21,9 @@ python calculador.py
 A calculadora fornece as operações básicas:
 soma ; subtração ; multiplicação ; divisão.
 
-Para utilizar, siga o passo a passo digitando inicialmente seu nome, depois a operação desejada e por final digitando os números a serem utilizados, um depois o outros. 
+Verifique as permissões. É necessário que tenha permissao de execução. 
+
+Comando para tornar arquivo executável.
+$ chmod x (nome do arquivo).
+
+Para utilizar, siga o passo a passo digitando inicialmente seu nome, depois a operação desejada e por final digitando os números a serem utilizados. 
